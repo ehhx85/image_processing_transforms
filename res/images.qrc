@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Astronaut">images/astronaut.jpg</file>
+        <file alias="Astronaut (resized)">images/astronaut_510x520.png</file>
+        <file alias="Autobot">images/autobot.png</file>
+        <file alias="Decepticon">images/decepticon.png</file>
+        <file alias="Halo">images/halo.png</file>
+        <file alias="Lenna (small)">images/Lenna_128.png</file>
+        <file alias="Lenna (medium)">images/Lenna_256.png</file>
+        <file alias="Lenna (large)">images/Lenna_512.png</file>
+        <file alias="Test">images/test.png</file>
+        <file alias="University of Tennessee">images/UTK.jpg</file>
+    </qresource>
+</RCC>
